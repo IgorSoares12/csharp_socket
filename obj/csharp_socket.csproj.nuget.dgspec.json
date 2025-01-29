@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/automacao/Documentos/csharp/csharp_socket/csharp_socket.csproj": {}
+    "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj": {}
   },
   "projects": {
-    "/home/automacao/Documentos/csharp/csharp_socket/csharp_socket.csproj": {
+    "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/automacao/Documentos/csharp/csharp_socket/csharp_socket.csproj",
+        "projectUniqueName": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj",
         "projectName": "csharp_socket",
-        "projectPath": "/home/automacao/Documentos/csharp/csharp_socket/csharp_socket.csproj",
+        "projectPath": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj",
         "packagesPath": "/home/automacao/.nuget/packages/",
-        "outputPath": "/home/automacao/Documentos/csharp/csharp_socket/obj/",
+        "outputPath": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/automacao/.nuget/NuGet/NuGet.Config"

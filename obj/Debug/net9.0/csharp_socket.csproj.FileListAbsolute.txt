@@ -1,0 +1,15 @@
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/bin/Debug/net9.0/csharp_socket
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/bin/Debug/net9.0/csharp_socket.deps.json
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/bin/Debug/net9.0/csharp_socket.runtimeconfig.json
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/bin/Debug/net9.0/csharp_socket.dll
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/bin/Debug/net9.0/csharp_socket.pdb
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.GeneratedMSBuildEditorConfig.editorconfig
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.AssemblyInfoInputs.cache
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.AssemblyInfo.cs
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.csproj.CoreCompileInputs.cache
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.sourcelink.json
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.dll
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/refint/csharp_socket.dll
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.pdb
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/csharp_socket.genruntimeconfig.cache
+/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/Debug/net9.0/ref/csharp_socket.dll
