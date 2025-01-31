@@ -10,6 +10,7 @@ var listener = new TcpListener(IPAddress.Any, 5000);
 listener.Start();
 
 logWriter.WriteLine("Servidor iniciado. Aguardando conexões...");
+Console.WriteLine("Servidor iniciado. Aguardando conexões...");
 logWriter.Flush();
 
 while (true)
