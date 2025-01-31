@@ -8,7 +8,7 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/automacao/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj",
       "projectName": "csharp_socket",
       "projectPath": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/csharp_socket.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/automacao/.nuget/packages/",
       "outputPath": "/home/automacao/Documentos/Projetos/csharp/csharp_socket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/automacao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

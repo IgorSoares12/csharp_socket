@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp_socket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d5503a486bd0725437142bcddc320cfc33d401c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a104c0b7f0194cf7a994c4b76481f8fcec54ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp_socket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp_socket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
